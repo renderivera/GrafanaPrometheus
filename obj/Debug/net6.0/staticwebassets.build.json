@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eeKuHL1AcmakRhIUFt6vzqDtqAak+CHKXPzPsM9bk1o=",
+  "Source": "GrafanaPrometheus",
+  "BasePath": "_content/GrafanaPrometheus",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
